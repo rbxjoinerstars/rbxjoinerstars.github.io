@@ -1,6 +1,6 @@
 [
   [
-    1726195794,
+    1726195861,
     70906625936847,
     "[SEASON 1]Gym Star Simulator",
     "897298e2-a8ab-4f85-8579-1f11be4d0e00",
@@ -31,17 +31,6 @@
     "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-37247F4C34BA332C63E12F27D09BEE74-Png/150/150/AvatarHeadshot/Webp/noFilter",
     "FishyBloxYT",
     "https://tr.rbxcdn.com/1e8957b0eb2906ba801c1d9a035c34f4/150/150/Image/Webp"
-  ],
-  [
-    1726194036,
-    17625359962,
-    "RIVALS",
-    "e8769d77-4981-4998-a6b0-a09adf428dad",
-    933956429,
-    "YT_ItsMatty",
-    "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-0916B582952B6326A09D4F06D83274EE-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    "Matty",
-    "https://tr.rbxcdn.com/e9b12b9f43fa52119da4b36d6552f50b/150/150/Image/Webp"
   ],
   [
     1726194067,
@@ -229,5 +218,16 @@
     "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-C57F58250DF7ACEDBEF8D0DA8C56ADE3-Png/150/150/AvatarHeadshot/Webp/noFilter",
     "DefildPlays",
     "https://t3.rbxcdn.com/9d17947a87eefa3fc70456e1d4395c02"
+  ],
+  [
+    1726195847,
+    17625359962,
+    "RIVALS",
+    "0ffdb46b-0740-4b88-acfd-ad93ac5e4f63",
+    933956429,
+    "YT_ItsMatty",
+    "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-0916B582952B6326A09D4F06D83274EE-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    "Matty",
+    "https://tr.rbxcdn.com/e9b12b9f43fa52119da4b36d6552f50b/150/150/Image/Webp"
   ]
 ]
